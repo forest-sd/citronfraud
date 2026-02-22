@@ -1,0 +1,7 @@
+/* TEAM */
+Site: CitronFraud: Expose Scams &amp; Protect Your Assets
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Cloudflare Pages
+Software: Static HTML/CSS
